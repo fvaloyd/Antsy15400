@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Francis Alcantara
 
-- 🌱 I’m currently learning Asp.NET webapi & React.js -->
+- 🌱 I’m currently learning React.js -->
 - 👔 I'm looking for a job -->
 <br>
 <a href="https://www.linkedin.com/in/francis-alcantara-674356213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
