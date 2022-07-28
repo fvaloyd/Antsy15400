@@ -1,13 +1,13 @@
 Hi 👋 My name is Francis Alcantara
 ==================================
 
-.NET & React Developer
+.NET fullstack developer
 ----------------------
 
 *   🌍  I'm based in DO Santo Domingo
 *   ✉️  You can contact me at [francisalcantara001@gmail.com](mailto:francisalcantara001@gmail.com)
-<!--*   🧠  I'm learning Rust & Nodejs-->
-*   ⚡  I like play video games and basketball
+*   🧠  I am currently developing personal projects and learning new things
+*   ⚡ Im be crazy about software development
 
 ### Skills
 <p align="left">
