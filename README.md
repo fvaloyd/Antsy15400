@@ -1,7 +1,7 @@
 :spades: Francis Alcantara
 ==================================
 
-**`ASP.NET Core fullstack developer`**
+**`Backend Developer | NET`**
 ----------------------
 
 *   I'm based in DO Santo Domingo
