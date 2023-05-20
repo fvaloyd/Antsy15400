@@ -1,7 +1,7 @@
 :spades: Francis Alcantara
 ==================================
 
-**`Software Engineer | NET`**
+**`Software Engineer | .NET`**
 ----------------------
 
 *   I'm based in DO Santo Domingo
